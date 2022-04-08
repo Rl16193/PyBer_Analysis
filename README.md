@@ -14,6 +14,7 @@ However, the rural city type has the highest average fare collected per ride and
 ![image](https://user-images.githubusercontent.com/100053788/162348511-4b9acc18-ae73-4a24-a4da-fc43d10cecca.png)
 
 From the weekly fare collected line chart a similar observation can be made where the urban city type collects higher total fare.
+The highest weekly total for Urban and Suburban city type was observed in the 3rd week of February whereas the highest weekly total for Rural city type was observed in the first week of April.
 
 ## Summary
 
